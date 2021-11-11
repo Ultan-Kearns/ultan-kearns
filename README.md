@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 -->
 My name's Ultan Kearns and welcome to my personal Github Page
 
+Here you will find:
+
++ My college projects
++ Personal Projects I'm currently working on in my spare time
+
+Here's some facts about me in case you're looking for a quick rundown :)
+
 Facts about me:
 
 + Currently working as a Salesforce Developer in Johnson & Johnson
@@ -27,11 +34,6 @@ Facts about me:
 + Obsessed with technology, video games and music
 + Always up for collaborating on different projects and learning new things!
 + I love reading checkout my Goodreads Profile here: https://www.goodreads.com/user/show/24708247-ultan
-
-Here you will find:
-
-+ My college projects
-+ Personal Projects I'm currently working on in my spare time
 
 Feel free to also checkout my webpage! It has a portfolio of my projects and my contact information.
 
