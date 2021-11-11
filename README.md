@@ -19,9 +19,16 @@ Here are some ideas to get you started:
 -->
 My name's Ultan Kearns and welcome to my personal Github
 
+Facts about me:
+
++ Currently working as a Salesforce Developer in Johnson & Johnson
++ I'm a Salesforce Ranger
++ Currently pursuing a postgrad in AI
++ Obsessed with technology, video games and music
+
 Here you will find:
 
-+ My college projects - both for my BSC in Software Development and Postgraduate course in Artificial Intelligence
++ My college projects
 + Personal Projects I'm currently working on in my spare time
 
 Feel free to also checkout my webpage! It has a lot of information about me and information on my past and current projects.  
