@@ -24,7 +24,7 @@ Here you will find:
 + My college projects
 + Personal Projects I'm currently working on in my spare time
 
-Here's some facts about me in case you're looking for a quick rundown :)
+Here's some facts about me in case you're looking for a quick rundown :smile: 
 
 Facts about me:
 
