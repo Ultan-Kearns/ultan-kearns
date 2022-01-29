@@ -21,19 +21,19 @@ My name's Ultan Kearns and welcome to my personal Github Page
 
 Here you will find:
 
-+ My college projects
++ My college projects for both my BSc and Postgraduate course
 + Personal Projects I'm currently working on in my spare time
 
 Here's some facts about me in case you're looking for a quick rundown :smile: 
 
 Facts about me:
 
-+ Currently working as a Salesforce Developer in Johnson & Johnson
 + I'm a Salesforce Ranger
-+ Currently pursuing a postgrad in AI
-+ Obsessed with technology, video games and music
++ Currently working as a Salesforce Developer in Johnson & Johnson
++ Currently pursuing a Post Graduate Degree in Artificial Intelligence 
++ Obsessed with technology, video games and music - Can't beat Radiohead, Oasis, or Joy Division!
 + Always up for collaborating on different projects and learning new things!
-+ I love reading checkout my Goodreads Profile here: https://www.goodreads.com/user/show/24708247-ultan
++ I love reading checkout my Goodreads Profile here: https://www.goodreads.com/user/show/24708247-ultan - If you know any good books feel free to message me your suggestions
 
 Feel free to also checkout my webpage! It has a portfolio of my projects and my contact information.
 
