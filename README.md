@@ -29,7 +29,7 @@ Here's some facts about me in case you're looking for a quick rundown :smile:
 Facts about me:
 
 + I'm a Salesforce Ranger
-+ Currently working as a Salesforce Developer in Johnson & Johnson
++ Currently working as a Salesforce Developer in Kerry Group
 + Currently pursuing a Post Graduate Degree in Artificial Intelligence 
 + Obsessed with technology, video games and music - Can't beat Radiohead, Oasis, or Joy Division!
 + Always up for collaborating on different projects and learning new things!
