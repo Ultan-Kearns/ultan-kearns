@@ -30,7 +30,7 @@ Facts about me:
 
 + I'm a Salesforce Ranger
 + Currently working as a Salesforce Developer in Kerry Group
-+ Currently pursuing a Post Graduate Degree in Artificial Intelligence 
++ I have a Postgraduate Certificate in Artificial Intelligence
 + Obsessed with technology, video games and music - Can't beat Radiohead, Oasis, or Joy Division!
 + Always up for collaborating on different projects and learning new things!
 + I love reading checkout my Goodreads Profile here: https://www.goodreads.com/user/show/24708247-ultan - If you know any good books feel free to message me your suggestions
