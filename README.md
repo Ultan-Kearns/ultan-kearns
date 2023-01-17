@@ -29,11 +29,12 @@ Here's some facts about me in case you're looking for a quick rundown :smile:
 Facts about me:
 
 + I'm a Salesforce Ranger
-+ I've formally worked in Johnson & Johnson & Kerry Group
++ I've formally worked for Johnson & Johnson & Kerry Group
 + I have a Postgraduate Certificate in Artificial Intelligence, currently pursuing a Masters in Computing in Big Data Analytics and Artificial Intelligence .
 + Obsessed with technology, video games and music - Can't beat Radiohead, Oasis, or Joy Division!
 + Always up for collaborating on different projects and learning new things!
 + I love reading checkout my Goodreads Profile here: https://www.goodreads.com/user/show/24708247-ultan - If you know any good books feel free to message me your suggestions
++ I love working out and self-improvement
 
 Feel free to also checkout my webpage! It has a portfolio of my projects and my contact information.
 
