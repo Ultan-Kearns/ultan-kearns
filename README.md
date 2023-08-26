@@ -1,6 +1,6 @@
 # Hello There!
 
-<img src="https://c.tenor.com/WuOwfnsLcfYAAAAS/star-wars-obi-wan-kenobi.gif" alt="General Kenobi greets you" height="500px" width="750px"/>
+<img src="https://c.tenor.com/WuOwfnsLcfYAAAAS/star-wars-obi-wan-kenobi.gif" alt="General Kenobi greets you" height="250px" width="750px"/>
 
 
 
