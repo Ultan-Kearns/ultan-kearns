@@ -28,6 +28,7 @@ With a highly motivated and adaptable mindset, I excel both as a collaborative t
 + In addition to the above education I also like to read about new technologies and do courses on Udemy and Coursera to expand my knowledge
 + I worked at Johnson & Johnson for 1 year and 9 months as a Salesforce Developer
 + I worked at Kerry Group for 6 months as a Salesforce Developer
++ After Kerry Group I decided to take a career break to focus on my masters and to pivot away from the Salesforce eco-system
 + I am currently working at Revium as a full stack developer
 
 # 🔎 What you'll find here
