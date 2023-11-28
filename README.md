@@ -56,6 +56,6 @@ If you'd like you can also add me on LinkedIn here: https://www.linkedin.com/in/
 
 ## Github Stats
 
-[![Ultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultan-kearns)](https://github.com/anuraghazra/github-readme-stats&theme=Gradient) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultan-kearns&hide_progress=true&theme=Gradient)
+[![Ultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultan-kearns)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultan-kearns&hide_progress=true&theme=tokyonight)
 
 
