@@ -1,4 +1,4 @@
-# Hello There!
+![image](https://github.com/Ultan-Kearns/ultan-kearns/assets/26790905/18284842-bba2-46d6-8642-6fda0bfb5412)# Hello There!
 
 <img src="https://c.tenor.com/WuOwfnsLcfYAAAAS/star-wars-obi-wan-kenobi.gif" alt="General Kenobi greets you" height="19%%" width="100%"/>
 
@@ -52,3 +52,10 @@ Facts about me:
 Feel free to also checkout my webpage! It has a portfolio of my projects and my contact information.
 
 If you'd like you can also add me on LinkedIn here: https://www.linkedin.com/in/ultan-kearns/
+
+
+## Github Stats
+
+[![Ultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultan-kearns)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultan-kearns&hide_progress=true)
