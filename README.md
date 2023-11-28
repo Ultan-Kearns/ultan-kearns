@@ -1,4 +1,4 @@
-![image](https://github.com/Ultan-Kearns/ultan-kearns/assets/26790905/18284842-bba2-46d6-8642-6fda0bfb5412)# Hello There!
+# Hello There!
 
 <img src="https://c.tenor.com/WuOwfnsLcfYAAAAS/star-wars-obi-wan-kenobi.gif" alt="General Kenobi greets you" height="19%%" width="100%"/>
 
