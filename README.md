@@ -24,13 +24,17 @@ I am an experienced Software Developer, currently working as a full stack develo
 With a highly motivated and adaptable mindset, I excel both as a collaborative team member and when working independently. I continuously seek new learning opportunities and stay updated with the latest advancements in the software development and AI domains. Outside of work, I channel my passion for technology and programming into personal projects, which you can explore in the project section of my CV. Additionally, my diverse interests span various hobbies such as reading, music, electronics, chess, and gaming. These activities not only fuel my creativity but also enhance my problem-solving and analytical skills.
 
 # 🎓👨🏻‍💻 Education and Experience
-+ I posess a bachelor's in software development(ATU Galway), a postgraduate degree in Artificial Intelligence(ATU Letterkenny), and a Masters degree in Artificial Intelligence Research(ATU Letterkenny)
-+ In addition to the above education I also like to read about new technologies and do courses on Udemy and Coursera to expand my knowledge
-+ I worked at Johnson & Johnson for September 2020 - May 2022 as a Salesforce Developer
-+ I worked at Kerry Group for 6 months as a Salesforce Developer
-+ After Kerry Group I decided to take a career break to focus on my masters, hone my skills in AI / ML, and to pivot away from the Salesforce eco-system
-+ I am currently working at Revium as a full stack developer and have been since May of 2023
 
+## 🎓 Education 🎓
++ I posess a Bachelors of Science in software development(ATU Galway), a postgraduate degree in Artificial Intelligence(ATU Letterkenny), and a Masters of Science in Artificial Intelligence Research(ATU Letterkenny)
++ In addition to the above education I also like to read about new technologies and do courses on Udemy and Coursera to expand my knowledge
+
+## 👨🏻‍💻 Experience 👨🏻‍💻
++ Johnson & Johnson, Salesforce Developer - September 2020 - May 2022
++ Kerry Group, Salesforce Developer - May 2022 - October 2022
++ Career break, Focused on my masters and honing my skills in software development and AI - October 2022 - May 2023
++ Revium, Full Stack Developer(MERN) - May 2023 - current
+  
 # 🔎 What you'll find here
 
 Here you will find:
