@@ -49,6 +49,8 @@ Here you will find:
 + Coursera: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 + Coursera: Neural Networks and Deep Learning
 + The Priority Academy: CBT Coach Practitioner Certification
+
+
 In addition to the above certificates I also have a number of Udemy certifications.
 
 ## 🎓 Education 🎓
