@@ -23,25 +23,38 @@ I am an experienced Software Developer with over 3 years industry experience, I 
 
 With a highly motivated and adaptable mindset, I excel both as a collaborative team member and when working independently. I continuously seek new learning opportunities and stay updated with the latest advancements in the software development and AI domains. Outside of work, I channel my passion for technology and programming into personal projects, which you can explore in the project section of my CV. Additionally, my diverse interests span various hobbies such as reading, music, electronics, chess, and gaming. These activities not only fuel my creativity but also enhance my problem-solving and analytical skills.
 
-# 🎓👨🏻‍💻 Education and Experience
-
-## 🎓 Education 🎓
-+ I posess a Bachelors of Science in software development(ATU Galway), a postgraduate degree in Artificial Intelligence(ATU Letterkenny), and a Masters of Science in Artificial Intelligence Research(ATU Letterkenny)
-+ In addition to the above education I also like to read about new technologies and do courses on Udemy and Coursera to expand my knowledge
-
-## 👨🏻‍💻 Experience 👨🏻‍💻
-+ Johnson & Johnson, Salesforce Developer - September 2020 - May 2022
-+ Kerry Group, Salesforce Developer - May 2022 - October 2022
-+ Career break, Focused on my masters and honing my skills in software development and AI - October 2022 - May 2023
-+ Revium, Full Stack Developer(MERN) - May 2023 - current
-  
 # 🔎 What you'll find here
 
 Here you will find:
 
 + My college projects for  my Bachelors, Postgraduate, and Masters courses
 + Personal Projects I'm currently working on in my spare time
++ Information about my experience & certifications
 
+# 🎓👨🏻‍💻 Education and Experience
+
+## 👨🏻‍💻 Experience 👨🏻‍💻
++ Johnson & Johnson, Salesforce Developer - September 2020 - May 2022
++ Kerry Group, Salesforce Developer - May 2022 - October 2022
++ Career break, Focused on my masters and honing my skills in software development and AI - October 2022 - May 2023
++ Revium, Full Stack Developer(MERN) - May 2023 - current
+ 
+## 📜 Certifications 📜
++ AWS: AWS Certified Cloud Practitioner
++ Udemy: MongoDB - The Complete Developer's Guide 2023
++ AIGPE: Lean Six Sigma: White Belt
++ AIGPE:Lean Six Sigma: Yellow Belt
++ AIGPE:Lean Specialist
++ Coursera: Structuring Machine Learning Projects
++ Coursera: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
++ Coursera: Neural Networks and Deep Learning
++ The Priority Academy: CBT Coach Practitioner Certification
+In addition to the above certificates I also have a number of Udemy certifications.
+
+## 🎓 Education 🎓
++ I posess a Bachelors of Science in software development(ATU Galway), a postgraduate degree in Artificial Intelligence(ATU Letterkenny), and a Masters of Science in Artificial Intelligence Research(ATU Letterkenny)
++ In addition to the above education I also like to read about new technologies and do courses on Udemy and Coursera to expand my knowledge
+  
 # 😀 Facts about me 
 
 Here's some facts about me in case you're looking for a quick rundown :smile: 
