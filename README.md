@@ -37,7 +37,7 @@ Here you will find:
 + Johnson & Johnson, Salesforce Developer - September 2020 - May 2022
 + Kerry Group, Salesforce Developer - May 2022 - October 2022
 + Career break, Focused on my masters and honing my skills in software development and AI - October 2022 - May 2023
-+ Revium, Full Stack Developer(MERN) - May 2023 - current
++ Revium, Full Stack Developer(MERN)(Contract Role*) - May 2023 - August 2024
  
 ## 📜 Certifications 📜
 + AWS: AWS Certified Cloud Practitioner
