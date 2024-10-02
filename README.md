@@ -38,7 +38,9 @@ Here you will find:
 + Kerry Group, Salesforce Developer - May 2022 - October 2022
 + Career break, Focused on my masters and honing my skills in software development and AI - October 2022 - May 2023
 + Revium, Full Stack Developer(MERN)(Contract Role*) - May 2023 - August 2024
- 
++ Freelance Full Stack Developer - August 2024 - October 2024
++ Watt Footprint, Full Stack Developer - October 2024 - Current
+
 ## 📜 Certifications 📜
 + AWS: AWS Certified Cloud Practitioner
 + Udemy: MongoDB - The Complete Developer's Guide 2023
