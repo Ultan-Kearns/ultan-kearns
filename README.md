@@ -34,12 +34,12 @@ Here you will find:
 # 🎓👨🏻‍💻 Education and Experience
 
 ## 👨🏻‍💻 Experience 👨🏻‍💻
-+ Johnson & Johnson, Salesforce Developer - September 2020 - May 2022
-+ Kerry Group, Salesforce Developer - May 2022 - October 2022
-+ Career break, Focused on my masters and honing my skills in software development and AI - October 2022 - May 2023
-+ Revium, Full Stack Developer(MERN)(Contract Role*) - May 2023 - August 2024
-+ Freelance Full Stack Developer - August 2024 - October 2024
 + Watt Footprint, Full Stack Developer - October 2024 - Current
++ Freelance Full Stack Developer - August 2024 - October 2024
++ Revium, Full Stack Developer(MERN)(Contract Role*) - May 2023 - August 2024
++ Career break, Focused on my masters and honing my skills in software development and AI - October 2022 - May 2023
++ Kerry Group, Salesforce Developer - May 2022 - October 2022
++ Johnson & Johnson, Salesforce Developer - September 2020 - May 2022
 
 ## 📜 Certifications 📜
 + AWS: AWS Certified Cloud Practitioner
