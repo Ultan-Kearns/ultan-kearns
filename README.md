@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 # 📖 Introduction 
 
-I am an experienced Software Developer with over 3 years industry experience, I am currently working as a full stack developer at Watt Footprint, with a background in working with industry-leading companies like Johnson & Johnson and Kerry Group. I possess strong coding skills in multiple languages and thrive on learning about cutting-edge technologies. My passion lies in software development and Artificial Intelligence, which is evident through my postgraduate and master’s degrees in AI.
+I am an experienced Software Developer with over 4 years industry experience, I am currently working as a full stack developer at Watt Footprint, with a background in working with industry-leading companies like Johnson & Johnson and Kerry Group. I possess strong coding skills in multiple languages and thrive on learning about cutting-edge technologies. My passion lies in software development and Artificial Intelligence, which is evident through my postgraduate and master’s degrees in AI.
 
 With a highly motivated and adaptable mindset, I excel both as a collaborative team member and when working independently. I continuously seek new learning opportunities and stay updated with the latest advancements in the software development and AI domains. Outside of work, I channel my passion for technology and programming into personal projects, which you can explore in the project section of my CV. Additionally, my diverse interests span various hobbies such as reading, music, electronics, chess, and gaming. These activities not only fuel my creativity but also enhance my problem-solving and analytical skills.
 
