@@ -43,6 +43,7 @@ Here you will find:
 
 ## 📜 Certifications 📜
 + AWS: AWS Certified Cloud Practitioner
++ TryHackMe: Cyber-Security 101
 + Udemy: MongoDB - The Complete Developer's Guide 2023
 + AIGPE: Lean Six Sigma: White Belt
 + AIGPE:Lean Six Sigma: Yellow Belt
