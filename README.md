@@ -54,7 +54,7 @@ Here you will find:
 + The Priority Academy: CBT Coach Practitioner Certification
 
 
-In addition to the above certificates I also have a number of Udemy certifications.
+In addition to the above certificates I also have a number of Udemy certifications and Kaggle courses.
 
 ## 🎓 Education 🎓
 + I posess a Bachelors of Science in software development(ATU Galway), a postgraduate degree in Artificial Intelligence(ATU Letterkenny), and a Masters of Science in Artificial Intelligence Research(ATU Letterkenny)
