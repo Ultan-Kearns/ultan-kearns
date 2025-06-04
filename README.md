@@ -56,7 +56,7 @@ Here you will find:
 In addition to the above certificates I also have a number of Udemy certifications and Kaggle courses.
 
 ## 🎓 Education 🎓
-+ I posess a Bachelors of Science in software development(ATU Galway), a postgraduate degree in Artificial Intelligence(ATU Letterkenny), and a Masters of Science in Artificial Intelligence Research(ATU Letterkenny)
++ I have a Bachelors of Science in software development(ATU Galway), a postgraduate degree in Artificial Intelligence(ATU Letterkenny), and a Masters of Science in Artificial Intelligence Research(ATU Letterkenny)
 + In addition to the above education I also like to read about new technologies and do courses on Udemy and Coursera to expand my knowledge
   
 # 😀 Facts about me 
