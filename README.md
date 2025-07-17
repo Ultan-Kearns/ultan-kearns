@@ -23,7 +23,7 @@ I am an experienced Software Developer with over 4 years industry experience, I 
 
 With a highly motivated and adaptable mindset, I excel both as a collaborative team member and when working independently. I continuously seek new learning opportunities and stay updated with the latest advancements in the software development and AI domains. Outside of work, I channel my passion for technology and programming into personal projects, which you can explore in the project section of my CV. Additionally, my diverse interests span various hobbies such as reading, music, electronics, chess, and gaming. These activities not only fuel my creativity but also enhance my problem-solving and analytical skills.
 
-# 🔎 What you'll find here
+# 🔎 What You'll Find Here on My Profile
 
 Here you will find:
 
@@ -61,7 +61,7 @@ In addition to the above certificates I also have a number of Udemy certificatio
 + Masters of Science in Artificial Intelligence Research - ATU Letterkenny - Thesis consisted of using DCGANs to augment datasets to train CNNs to automatically diagnose COVID 19 from X-rays / CT scans as well as investigating merits of transfer learning to this problem domain.
 + In addition to the above education I also like to read about new technologies and do courses on Udemy and Coursera to expand my knowledge
   
-# 😀 Facts about me 
+# 😀 Facts About Me
 
 Here's some facts about me in case you're looking for a quick rundown :smile: 
 
