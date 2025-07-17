@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-# 📖 Introduction 
+# 📖 About Me 
 
 I am an experienced Software Developer with over 4 years industry experience, I am currently working as a sole full stack developer at Watt Footprint managing database, data pipelines / integrations, amplitude, along with many other services. I also have a background in working with industry-leading companies like Johnson & Johnson and Kerry Group. I possess strong coding skills in multiple languages and thrive on learning about cutting-edge technologies. My passion lies in software development and Artificial Intelligence, which is evident through my postgraduate and master’s degrees in AI.
 
