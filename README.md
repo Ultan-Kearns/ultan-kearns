@@ -76,17 +76,7 @@ Feel free to also checkout my webpage! It has a portfolio of my projects and my 
 
 If you'd like you can also add me on LinkedIn here: https://www.linkedin.com/in/ultan-kearns/
 
-
-# 📈 Github Stats
-
-[![Ultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultan-kearns)](https://github.com/anuraghazra/github-readme-stats/&theme=ambient_gradient) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultan-kearns&hide_progress=true&theme=ambient_gradient)
-
-# 📚 Some of my most interesting projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ultan-kearns&repo=Masters_Thesis_Automated_Detection_of_COVID_19_Using_GANs_and_CNNs)](https://github.com/Ultan-Kearns/Masters_Thesis_Automated_Detection_of_COVID_19_Using_GANs_and_CNNs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ultan-kearns&repo=LYIT-Machine-Learning-Project)](https://github.com/Ultan-Kearns/LYIT-Machine-Learning-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ultan-kearns&repo=AppliedProject)](https://github.com/Ultan-Kearns/AppliedProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ultan-kearns&repo=Analysis-of-Deep-Learning-Algorithms)](https://github.com/Ultan-Kearns/Analysis-of-Deep-Learning-Algorithms)
-
+ 
 If you are interested in these projects please feel free to peruse the rest of my projects on Github and thanks for visiting 😁
 
-(Readme cards and stats courtesy of https://github.com/anuraghazra/)
+ 
