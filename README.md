@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+# Can view my CV here for more information about my background and experience: 
+<a href="https://drive.google.com/file/d/1bCvziZZqczhdVDJnbCC_bkMNX4xlRduM/view">Link to my CV</a>
+
 # 📖 About Me 
 
 I am an experienced Software Developer with 5 industry experience. I have a background in working with industry-leading companies like Johnson & Johnson and Kerry Group. I possess strong coding skills in multiple languages and thrive on learning about cutting-edge technologies. My passion lies in software development and Artificial Intelligence, which is evident through my postgraduate and master’s degrees in AI.
