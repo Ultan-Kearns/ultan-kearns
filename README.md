@@ -38,7 +38,7 @@ Here you will find:
 # 🎓👨🏻‍💻 Education and Experience
 
 ## 👨🏻‍💻 Experience 👨🏻‍💻
-+ Watt Footprint, Lead Full Stack Developer - October 2024 - February 2026
++ Watt Footprint, Lead Full Stack Developer - October 2024 - March 2026
 + B2B Sales Startup, Full Stack Developer(MERN)(Contract Role*) - May 2023 - October 2024
 + Career break, Focused on my masters and honing my skills in software development and AI - October 2022 - May 2023
 + Kerry Group, Salesforce Developer - May 2022 - October 2022
