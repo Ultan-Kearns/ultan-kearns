@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 -->
 
 # Can view my CV here for more information about my background and experience: 
-<a href="https://drive.google.com/file/d/1bCvziZZqczhdVDJnbCC_bkMNX4xlRduM/view">Link to my CV</a>
+<a href="https://drive.google.com/file/d/1bCvziZZqczhdVDJnbCC_bkMNX4xlRduM/view">Link to my CV on Google Drive</a>
+You can also view my website here: <a href="https://ultan-kearns.github.io/">Link to my website ultan-kearns.github.io</a>
 
 # 📖 About Me 
 
