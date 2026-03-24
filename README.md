@@ -24,7 +24,7 @@ You can also view my website here: <a href="https://ultan-kearns.github.io/">Lin
 
 # 📖 About Me 
 
-I am an experienced Software Developer with 5 industry experience. I have a background in working with industry-leading companies like Johnson & Johnson and Kerry Group. I possess strong coding skills in multiple languages and thrive on learning about cutting-edge technologies. My passion lies in software development and Artificial Intelligence, which is evident through my postgraduate and master’s degrees in AI.
+I am an experienced Software Developer with 5 industry experience currently working with Liberty IT. I have a background in working with industry-leading companies like Johnson & Johnson and Kerry Group. I possess strong coding skills in multiple languages and thrive on learning about cutting-edge technologies. My passion lies in software development and Artificial Intelligence, which is evident through my postgraduate and master’s degrees in AI.
 
 With a highly motivated and adaptable mindset, I excel both as a collaborative team member and when working independently. I continuously seek new learning opportunities and stay updated with the latest advancements in the software development and AI domains. Outside of work, I channel my passion for technology and programming into personal projects, which you can explore in the project section of my CV. Additionally, my diverse interests span various hobbies such as reading, music, electronics, chess, and gaming. These activities not only fuel my creativity but also enhance my problem-solving and analytical skills.
 
@@ -39,6 +39,7 @@ Here you will find:
 # 🎓👨🏻‍💻 Education and Experience
 
 ## 👨🏻‍💻 Experience 👨🏻‍💻
++ Liberty IT, Senior Developer - March 2026 - Current
 + Watt Footprint, Lead Full Stack Developer - October 2024 - March 2026
 + B2B Sales Startup, Full Stack Developer(MERN)(Contract Role*) - May 2023 - October 2024
 + Career break, Focused on my masters and honing my skills in software development and AI - October 2022 - May 2023
