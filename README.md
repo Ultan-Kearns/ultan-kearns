@@ -39,7 +39,7 @@ Here you will find:
 # 🎓👨🏻‍💻 Education and Experience
 
 ## 👨🏻‍💻 Experience 👨🏻‍💻
-+ Liberty IT, Senior Developer - March 2026 - Current
++ Liberty IT, Senior Software Engineer - March 2026 - Current
 + Watt Footprint, Lead Full Stack Developer - October 2024 - March 2026
 + B2B Sales Startup, Full Stack Developer(MERN) - May 2023 - October 2024
 + Career break, Focused on my masters and honing my skills in software development and AI - October 2022 - May 2023
